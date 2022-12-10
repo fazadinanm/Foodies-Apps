@@ -1,0 +1,17 @@
+{
+    "name": "Foodies Apps",
+    "short_name": "Foodies",
+    "description": "Website untuk memenuhi nafsu makan",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ce1212",
+    "icons": [
+      {
+        "src": "images/favicon/favicon.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
